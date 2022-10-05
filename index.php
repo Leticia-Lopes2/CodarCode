@@ -10,7 +10,7 @@
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-        <title>Source X SRT</title>
+        <title>Codar Code</title>
 </head>
 	<body id="home">
 		<div id="wrapper">
@@ -53,7 +53,7 @@
 			<section>
 				<div id="line">
 					<div class="dline"></div>
-					<h1>Our Services</h1>
+					<h1>Letícia Chata</h1>
 					<div class="dline"></div>
 				</div>
 				<div id="ourserv">
