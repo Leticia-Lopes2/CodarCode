@@ -11,7 +11,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <title>Source X SRT</title>
-    </head>
+</head>
 	<body id="home">
 		<div id="wrapper">
 		
